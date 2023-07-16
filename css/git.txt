@@ -1,0 +1,11 @@
+//Git init
+//Git remote
+
+//git config --global user.name "Angie Robayo"
+//git config --global user.email angierobayo09@gmail.com
+
+//git add *.txt
+//git add git.txt
+//git add .
+
+//git commit -m "Mi primer proyecto completo"
